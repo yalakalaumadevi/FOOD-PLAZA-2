@@ -1,0 +1,221 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+.hr {
+    border: 1px solid red;
+}
+
+.loke {
+    height: 190px;
+    width: 100%;
+    /* border: 2px solid green; */
+    background-color: black;
+    color: white;
+    /* position: sticky;
+    top: 0; */
+}
+
+.loke h1 {
+    margin-top: 50px;
+}
+
+.loke i a {
+    color: white;
+    margin-left: 60px;
+    text-decoration: none;
+}
+
+.loke i {
+    margin-left: 20px;
+}
+
+.siri {
+    height: 380px;
+    width: 100%;
+    border: 1px solid red;
+    margin-top: 5px;
+}
+
+.sir img {
+
+    position: absolute;
+    height: 380px;
+    width: 100%;
+
+}
+
+.sir h3 {
+
+    position: relative;
+    z-index: 1;
+    color: aliceblue;
+    font-size: 30px;
+    padding-top: 190px;
+    /* text-align: center; */
+    margin-right: 30px;
+}
+
+.sir button {
+    color: black;
+    background-color: yellow;
+    position: relative;
+    z-index: 1;
+    padding: 20PX;
+    border-radius: 20px;
+    margin-left: 130px;
+    border: 2px solid yellow;
+}
+
+.sir button:hover {
+    color: black;
+    transform: scale(0.9);
+    background-color: rgb(163, 163, 205);
+}
+
+.vivii {
+    height: 480px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+
+.vivi:hover {
+    transform: scale(0.9);
+}
+
+.vivi {
+    float: left;
+    border: 2px solid green;
+    height: 400px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.vivi img {
+    height: 150px;
+    width: 150px;
+}
+
+.vivi h1 {
+    margin-top: 50px;
+}
+
+.diya {
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 5px;
+
+}
+
+.diy:hover {
+    transform: scale(1.1);
+}
+
+.diy {
+    float: left;
+    height: 345px;
+    width: 360px;
+    /* border: 2px solid green; */
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.diy img {
+    height: 345px;
+    width: 360px;
+    position: absolute;
+}
+
+.diy p {
+    position: relative;
+    z-index: 1;
+    padding-top: 30px;
+    color: azure;
+}
+
+.diy h1 {
+    position: relative;
+    z-index: 1;
+    padding: 150px;
+    padding-left: 30px;
+    color: white;
+}
+
+.madhu {
+    height: 280px;
+    width: 100%;
+    /* border: 2px solid yellow; */
+    margin-top: 10px;
+}
+
+.madhu1:hover {
+    transform: scale(1.1);
+}
+
+.madhu1 {
+    float: left;
+    height: 170px;
+    width: 170px;
+    /* border: 2px solid red; */
+    margin-left: 30px;
+    border-radius: 800px;
+    margin-top: 30px;
+}
+
+.madhu1 img {
+    height: 170px;
+    width: 170px;
+    border-radius: 800px;
+}
+
+.madhu1 h4 {
+    text-align: center;
+
+}
+
+.radha {
+    height: 380px;
+    width: 100%;
+    /* border: 2px solid violet; */
+    margin-top: 10px;
+    text-align: center;
+
+
+}
+
+.radhe {
+    height: 280px;
+    width: 250px;
+    border: 2px solid black;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+    background-color: bisque;
+
+
+}
+
+.radhe:hover {
+    transform: scale(1.1);
+}
+
+.radhe img {
+    height: 180px;
+    width: 245px;
+}
+
+.radhe h5 {
+    text-align: center;
+}
+
+.radhe button {
+    margin-left: 10px;
+    color: black;
+    background-color: green;
+}
