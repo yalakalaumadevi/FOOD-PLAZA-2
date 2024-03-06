@@ -89,7 +89,7 @@
 
 .vivi {
     float: left;
-    border: 2px solid green;
+    border: 2px solid rgb(0, 3, 0);
     height: 400px;
     width: 400px;
     margin-left: 10px;
@@ -192,7 +192,7 @@
 .radhe {
     height: 280px;
     width: 250px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     float: left;
     margin-left: 50px;
     margin-top: 40px;
@@ -200,6 +200,7 @@
 
 
 }
+
 
 .radhe:hover {
     transform: scale(1.1);
@@ -218,4 +219,183 @@
     margin-left: 10px;
     color: black;
     background-color: green;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 5px 10px;
+    color: white;
+}
+.dhahi{
+    height: 450px;
+    width: 100%;
+    /* border: 2px solid yellow; */
+
+}
+.mmm{
+    height: 350px;
+    width: 350px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.mmm img{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    /* opacity: -270px; */
+
+}
+/* .mmm h5{
+    position: relative;
+    margin-top: 0px;
+    font-size: 30px;
+    color:black;
+} */
+.mmm h2{
+    position: relative;
+    margin-top: 230px;
+    font-size: 40px;
+    color: white;
+
+}
+.mmm h2 p{
+    color: black;
+    font-size: 20px;
+}
+/* section8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.sharon{
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid green; */
+}
+.rani{
+    height: 350px;
+    width: 300px;
+    /* border: 1px solid green; */
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.rani img{
+    height: 270px;
+    width: 300px;
+}
+.rani h3{
+    color: rgb(10, 8, 13);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+/* section9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.rosi{
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid green; */
+margin-top: 10px;
+}
+.swapna1{
+    height: 370px;
+    width: 640px;
+    /* border: 1px solid red; */
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.swapna1 img{
+    height: 370px;
+    width: 640px;
+  
+}
+.swapna2{
+    height: 370px;
+    width: 480px;
+    /* border: 1px solid red; */
+    margin-left: 720px;
+    margin-top: 20px;
+}
+/* <!-- section10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, --> */
+
+.sur{
+    height: 1300px;
+    width: 100%;
+    /* border: 2px solid green; */
+margin-top: 10px;
+
+}
+.ramya{
+    height: 300px;
+    width: 280px;
+    /* border: 2px solid green; */
+margin-top: 20px;
+float: left;
+margin-left: 30px;
+
+}
+.ramya img{
+    height: 250px;
+    width: 276px;
+
+}
+/* <!-- section11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, --> */
+.mahi{
+    height: 130px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 10px;
+    text-align: center;
+}
+.mahi button{
+    padding: 10px 190px;
+    border-radius: 50px;
+    background-color: goldenrod;
+    font-size: 20px;
+    color: aliceblue;
+}
+.amma{
+    height: 50px;
+    width: 100%;
+    /* border: 1px solid green; */
+
+}
+.amma button{
+    margin-top: 5px;
+    text-align: center;
+margin-left: 600px;
+padding: 10px 30px;
+border-radius: 20px;
+font-size: 15px;
+background-color: green;
+color: azure;
+}
+.amma button:hover{
+    border: 2px solid aqua;
+}
+/* section12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.nanna{
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid gray; */
+background-color: black;
+}
+.son{
+    height: 370px;
+    width: 300px;
+    /* border: 1px solid gray; */
+ float: left;
+ margin-top: 20px;
+ margin-left: 10px;
+}
+.son h1{
+    font-size: 20px;
+    color: aliceblue;
+}
+.son i{
+    font-size: 25px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+.son p{
+    margin-left: 20px;
+    color: aliceblue;
 }
